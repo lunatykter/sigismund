@@ -10,7 +10,7 @@ setup:
   
     -then launch the "launch.bat" to install everything
 
-    -then go to the src and put in the token and everything in. you can also make the bot only for you by disable everyone option and inputting your userid
+    -then go to the config and put in the token and everything in. you can also make the bot only for you by disable everyone option and inputting your userid
 
 
 
