@@ -1,10 +1,20 @@
 # sigismund
 a nuker to achieve TND
 requires node.js
-create a bot in discord dev and enable all intents. also give it administrator permission 
+
+
+
+
+
+-create a bot in discord dev and enable all intents. also give it administrator permission 
 first launch the "launch.bat" to install everything
 then go to the src and put in the token and everything in. you can also make the bot only for you by disable everyone option and inputting your userid
-funxtions include
+
+
+
+
+
+functions include
 deleting all channels and spamming channels and ping with your text(!nuke <amount> <channelname> <text>)
 deleting all roles (!droles)
 deleting emotes (!demote)
